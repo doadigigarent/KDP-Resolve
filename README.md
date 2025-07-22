@@ -38,12 +38,6 @@ The script also uses standard command-line utilities like `du` and `cut`, which 
         brew install ghostscript
         ```
         
-2.  **Download the Script**
-    Clone this repository or just download the `compress.sh` script file to your computer.
-    ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
-    ```
 
 ## Usage
 1.  **Place the Script**: Move the `compress.sh` script into the directory containing the PDF files you want to compress.
