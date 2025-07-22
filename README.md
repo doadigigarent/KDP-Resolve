@@ -40,14 +40,14 @@ The script also uses standard command-line utilities like `du` and `cut`, which 
         
 
 ## Usage
-1.  **Place the Script**: Move the `compress.sh` script into the directory containing the PDF files you want to compress.
+1.  **Place the Script**: Move the `ZIP_PDF.sh` script into the directory containing the PDF files you want to compress.
 2.  **Make it Executable**: Open a terminal in that directory and give the script execution permissions. You only need to do this once.
     ```bash
-    chmod +x compress.sh
+    chmod +x ZIP_PDF.sh
     ```
 3.  **Run the Script**: Execute the script from your terminal.
     ```bash
-    ./compress.sh
+    ./ZIP_PDF.sh.sh
     ```
 4.  **Select Quality**: The script will prompt you to choose a compression quality. Enter the number corresponding to your choice (1-4) and press `Enter`. If you enter an invalid choice or just press `Enter`, it will default to `3` (High / Printer).
 5.  **Done**: The script will then process all the PDF files. Upon completion, it will list the newly created `_compress.pdf` files and their sizes. The original files remain untouched.
