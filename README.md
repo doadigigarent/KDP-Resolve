@@ -1,4 +1,5 @@
-# PDF Batch Compressor Script
+# KDP Resolve Error Upload PDF
+## PDF Batch Compressor/Color resolve Script
 
 A simple yet powerful bash script to batch-compress PDF files in a directory using Ghostscript. It's designed to be easy to use, providing a menu to select the desired output quality, and is particularly useful for preparing PDFs for web, e-book distribution, or professional printing (like Amazon KDP).
 
